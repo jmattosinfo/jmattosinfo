@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on the project **[JK-Finance](https://github.com/jmattosinfo/jk-finance) Java, SpringBoot, ReactNative, Maven**
-- and **[Finance Control](https://github.com/jmattosinfo/finance_control) Python, Django, JS, SQLite**
+- 🔭 Currently working on the project **[JK-Finance](https://github.com/jmattosinfo/jk-finance) with Java, SpringBoot, ReactNative, Maven**
+- and **[Finance Control](https://github.com/jmattosinfo/finance_control) with Python, Django, JS, SQLite**
 - 🌱 Improving my skills in **React Native and Java Spring Boot**
 - 💬 Ask me about **Computer Architecture, IT Infrastructure & Hardware**
 - 📫 How to reach me: **jmattosdev@outlook.com**
