@@ -1,7 +1,7 @@
 <h1 align="center">Olá,eu sou o Júlio Mattos</h1>
 <h3 align="center">**Experienced IT professional transitioning to Full Stack Development | Focus on Java (Spring Boot) & React Native | Student of Analysis and Systems Development**</h3>
 
-- 🔭 Trabalhando no projeto [JK-Finance](https://github.com/jmattosinfo/jkfinance)
+- 🔭 Trabalhando no projeto [JK-Finance](https://github.com/jmattosinfo/jk-finance)
 
 - 🌱 Estou aprimorando atualmente meus conhecimentos em **React Native, Java Spring Boot**
 
