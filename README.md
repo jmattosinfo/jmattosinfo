@@ -29,5 +29,9 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/jmattosinfo?base=header,repositories,metadata&base.indepth=true&config.timezone=America%2FSao_Paulo" alt="Metrics de Júlio" />
+  <img src="https://github-readme-stats-two.vercel.app/api?username=jmattosinfo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Júlio" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=jmattosinfo&layout=compact&theme=dracula&hide_langs_below=1" alt="Linguagens mais usadas" />
 </p>
