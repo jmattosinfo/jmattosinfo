@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Júlio Mattos 👋</h1>
-<h2 align="center">Bem Vindo ao eu GitHub! </h2>
+<h2 align="center">Bem Vindo ao meu GitHub!</h2>
 
 <p align="center">
   <strong>Experienced IT professional transitioning to Full Stack Development | Focus on Java (Spring Boot) & React Native | Student of Analysis and Systems Development</strong>
